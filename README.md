@@ -1,0 +1,1 @@
+# Tarea_red_neuronal_mnist
